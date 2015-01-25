@@ -1,3 +1,4 @@
+activate :dotenv
 activate :blog do |blog|
-  # set options on blog
+  blog.new_article_template = 'templates/new.erb'
 end
