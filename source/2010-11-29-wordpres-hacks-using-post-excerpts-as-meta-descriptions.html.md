@@ -1,5 +1,5 @@
 ---
-title: WordPress Hacks: Using Post Excerpts as Meta Descriptions
+title: "WordPress Hacks: Using Post Excerpts as Meta Descriptions"
 date: 2010-11-29 22:21 UTC
 author: John Koht
 category: Programming

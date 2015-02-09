@@ -1,5 +1,5 @@
 ---
-title: Image Hiduken: A Responsive Image jQuery Library
+title: "Image Hiduken: A Responsive Image jQuery Library"
 date: 2013-02-21 22:21 UTC
 author: John Koht
 category: Open Source

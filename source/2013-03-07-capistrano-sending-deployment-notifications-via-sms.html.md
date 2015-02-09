@@ -1,5 +1,5 @@
 ---
-title: Capistrano: Sending Deployment Notifications via SMS
+title: "Capistrano: Sending Deployment Notifications via SMS"
 date: 2013-03-07 22:21 UTC
 author: John Koht
 category: Programming

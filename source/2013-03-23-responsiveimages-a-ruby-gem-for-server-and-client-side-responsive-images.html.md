@@ -1,5 +1,5 @@
 ---
-title: ResponsiveImages: A Ruby Gem for Server and Client-Side Responsive Images
+title: "ResponsiveImages: A Ruby Gem for Server and Client-Side Responsive "Images
 date: 2013-03-23 22:21 UTC
 author: John Koht
 category: Open Source
