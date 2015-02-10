@@ -22,7 +22,7 @@ Take a 2 pixel slice of your custom toolbar background. From this image you will
 
 Create new subclass of UIToolbar and add the following drawRect code:
 
-```
+```objectivec
 - (void)drawRect:(CGRect)rect
   UIImage *image = [[UIImage imageNamed:@"toolbar_bg.png"] stretchableImageWithLeftCapWidth:1 topCapHeight:0];
   [image drawInRect:CGRectMake( 0, 0, self.frame.size.width, self.frame.size.height )];
@@ -37,7 +37,7 @@ Below is the finished product running in the simulator, looking and functioning 
 
 Finally we can make the toolbar follow our keyboard by setting up a UITextField and setting the input accessory as our toolbar.
 
-```
+```objectivec
 [self.testVal setInputViewAccessory:self.toolbar];
 ```
 

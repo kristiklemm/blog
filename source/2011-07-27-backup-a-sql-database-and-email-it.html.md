@@ -12,7 +12,7 @@ So recently we needed rapid backups of one of our MySQL servers. As everyone kno
 
 Write a small script to dump the db:
 
-```
+```bash
 #!/bin/sh
 timestamp=$(date '+%d-%m-%Y@%H:%M')
 mysqldump -u dbuser -pPassword --all-databases | gzip > /tmp/path/for/backup/database_$timestamp.sql.gz
@@ -24,7 +24,7 @@ This is a bash script that stores the current timestamp to a variable then goes 
 
 Next we actually need to mail this file to our backups account, after a short research session i came across mutt. Which seems to fufill the requirement of sending a email with an attached file easily from the command line:
 
-```
+```bash
 mutt -s "Hourly backup from c4.kohsrv.net | $timestamp" -a /tmp/path/for/backup/database_$timestamp.sql.gz backup_email@gmail.com < /path/to/msg/body.txt
 ```
 
@@ -34,7 +34,7 @@ Finally u can delete the temp file or leave it for redundency just beaware it wi
 
 So our completed bash script should look like
 
-```
+```bash
 #!/bin/sh
 
 timestamp=$(date '+%d-%m-%Y@%H:%M')

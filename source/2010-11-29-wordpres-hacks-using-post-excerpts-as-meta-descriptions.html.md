@@ -10,7 +10,7 @@ When you build a static website with a few separate HTML files you find it easy 
 
 The Problem: WordPress uses the same meta data for each page. The solutions is simple, though:
 
-```
+```php
 <?php
 //if single post then add excerpt as meta description
 if (is_single()) {

@@ -12,7 +12,7 @@ We recently worked on a Drupal website. Not our favorite but we made the best of
 
 To start with we lacked any rake tools to facilitate database management. I had our develop shoot me a dump of his DB to get a starting point and wrote a little capistrano task that could basically upload a .sql seed file and execute it.
 
-```
+```ruby
 task :seed_database do
   seedfile = ENV['SEED_FILE'].nil? ? "config/seed.sql" : "config/#{ENV['SEED_FILE']}"
   put File.read(seedfile), "/tmp/#{application}_dbseed.sql"
@@ -28,7 +28,7 @@ This involves a couple of steps.
 
 1) We need to create folders in the shared folder that we can symlink back to from a release. This is fairly easy with a custom task and a deploy:setup hook. It looks like this:
 
-```
+```ruby
 task :prepare_shared_paths do
  after "deploy:setup", "deploy:prepare_shared_paths"
  namespace :deploy do
@@ -45,7 +45,7 @@ end
 
 Now we've created some shared folders we can symlink from each release we need to actually symlink them. The problem is our deployment contain alot of files that we're already in git that may or not be modified. The solution here is to rsync from our release to shared before symlinking. This can be done as follows:
 
-```
+```ruby
 after "deploy:update", "deploy:rsync_private_files"  
 task :rsync_private_files do
   run "rsync -av #{release_path}/sites/default/files/ #{shared_path}/sites/default/files/"
@@ -67,7 +67,7 @@ Basic enough, we rsync, delete the releases' copy and then symlink it to the com
 
 Another wall to hit was our developer has his own settings in /sites/default/settings.php which is part of the git deploy. PHP and Drupal have no great way managing multiple environments, our quick and ditry solution was to maintain in our project another copy of settings.php called settings_production.php we keep this in our config directory and on every deploy we overwrite the git deployed version with the production version using cap.
 
-```
+```ruby
 after "deploy:update", "deploy:send_settings"
   task :send_settings do
   put File.read("config/settings_production.php"), "#{release_path}/sites/default/settings.php"

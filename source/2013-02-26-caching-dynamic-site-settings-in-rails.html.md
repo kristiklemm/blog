@@ -10,7 +10,7 @@ I believe speed is one of the most important aspects of a successful website or 
 
 These settings are great for users. They can define and manage the simplest details without having to contact a developer. The problem these create is an abundance of unnecessary database calls, especially since some of these settings are prevelant throughout the site. In fact, we use a `before_filter :common_settings` to load the settings. To address this issue, we implemented a simple way to cache the settings.
 
-```
+```ruby
 @settings = Rails.cache.fetch :common_app_settings, :expired_in => 30.days do
   Setting.all
 end
@@ -18,7 +18,7 @@ end
 
 This should straight forward, we're caching the entire array and it won't expire for 30 days. Now we can select our settings and values from our cached array rather than calling the database each time. Here's an example of one of those calls:
 
-```
+```ruby
 @site_title = (@settings.find_value "title", "Site Title").value
 ```
 
@@ -26,7 +26,7 @@ You're probably wondering what that find_value means. It's a nice little Monkey 
 
 Now you're caching an Array of Settings that you can easily find values from. The only remaining issue with this is cache invalidation. To achieve this, we need to rewrite the common_app_settings cache key. There are a variety of way so achieve this, I do it by simply rewriting the cache key once a setting model has been updated. I add it as a hook after our controller successfully saves the Setting.
 
-```
+```ruby
 Rails.cache.write(:common_app_settings, Setting.all)
 ```
 

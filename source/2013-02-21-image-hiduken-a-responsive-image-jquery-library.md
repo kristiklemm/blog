@@ -12,23 +12,23 @@ Our solution is Image Hiduken, a simple and lightweight jQuery library for respo
 
 Getting Image Hiduken up and running is incredibly easy. First add the library to your site and then initialize the plugin:
 
-```
+```javascript
 $(selector).image_hiduken({
   small_size : 300,
   medium_size : 640,
-  large_size : 980,  
-});
+  large_size : 980,
+});  
 ```
 
-Now you need to setup your <img /> or <div /> tags with the appropriate attributes:
+Now you need to setup your `<img />` or `<div />` tags with the appropriate attributes:
 
-```
+```html
 <img src="/path/to/image.jpg" data-mobile-src="/path/to/small/image.jpg" data-tablet-src="/path/to/small/medium.jpg" data-desktop-src="/path/to/large/image.jpg" />
 ```
 
 You can also use div's with a background image:
 
-```
+```html
 <div style="background: url('/path/to/image.jpg)" data-mobile-src="/path/to/small/image.jpg" data-tablet-src="/path/to/small/medium.jpg" data-desktop-src="/path/to/large/image.jpg">
   Hello world!
 </div>

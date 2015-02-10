@@ -12,7 +12,7 @@ Recently we were hired to build a desktop HTML5 version of a client's existing i
 
 1. JSON-P, a psuedo-standard which allows GET requests to happen between clients and properly configured servers through the use of script tag hacks. The flow here is to define a callback somewhere in code
 
-```
+```javascript
 var jsonp_callback = function(data) {
     //do something with the data from the server
     console.log(data)
@@ -21,13 +21,13 @@ var jsonp_callback = function(data) {
 
 Given the previous code block we make our jsonp request which is transformed to the following
 
-```
+```html
 <script src="http://www.api.com/getrequestendpoint?foo=bar&callback=jsonp_callback"></script>
 ```
 
 The server side would the construct a json response wrapped in the passed callback
 
-```
+```javascript
 jsonp_callback({var: data, foo: bar})
 ```
 
@@ -39,7 +39,7 @@ Now since this was loaded via a script tag proxy that code is immediately execut
 
 First we start with an upstream block:
 
-```
+```nginx
 upstream ssl_api {
   server something.appspot.com:443;
 }
@@ -48,7 +48,7 @@ upstream ssl_api {
 This basically defines the base of our foreign api and it's port.
 From there we can define a location in our server block and mount the upstream.
 
-```
+```nginx
 location /api {
   proxy_set_header X-Real-IP $remote_addr;
   proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;

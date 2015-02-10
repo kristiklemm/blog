@@ -16,7 +16,7 @@ So how do we use the SDK without making it our app delegate and making the entir
 
 First Create a new UIViewController
 
-```
+```objectivec
 //SFDCLoginViewController.h
 #import "SFOAuthCoordinator.h"
 @interface SFDCLoginViewController : UIViewController <SFOAuthCoordinatorDelegate, UIAlertViewDelegate>  { 
@@ -31,7 +31,7 @@ Next is the .m file or implementation of the view controller
 
 I am using a storyboard in my example so my viewcontroller calls +[initWithCoder]
 
-```
+```objectivec
 - (id) initWithCoder:(NSCoder *)aDecoder {
   self = [super initWithCoder:aDecoder];
   if (self) {
@@ -40,7 +40,6 @@ I am using a storyboard in my example so my viewcontroller calls +[initWithCoder
   return self;
 }
 
-
 - (void) doInit
 {
   [SFAccountManager setLoginHost:[self oauthLoginDomain]];
@@ -48,12 +47,11 @@ I am using a storyboard in my example so my viewcontroller calls +[initWithCoder
   [SFAccountManager setRedirectUri:[self oauthRedirectURI]];
   [SFAccountManager setCurrentAccountIdentifier:[self userAccountIdentifier]];
 }
-
 ```
 
 This basically does the same work Salesforce's app delegate does. Setting up the new SFAccountManager the methods below also come from the appdelegate which informs the app what the endpoints are etc.
 
-```
+```objectivec
 - (NSString*)remoteAccessConsumerKey {
   return OAuthConsumerKey;
 }
@@ -107,7 +105,7 @@ This basically does the same work Salesforce's app delegate does. Setting up the
 
 Finally we just need to implement our handler for after a successful authentication. It sets the API's coordinator and the account managers credentials which should wire-up everything you need to start making requests.
 
-```
+```objectivec
 - (void)oauthCoordinatorDidAuthenticate:(SFOAuthCoordinator *)coordinator {
   [coordinator.view removeFromSuperview];
   [[SFRestAPI sharedInstance] setCoordinator:coordinator];
@@ -119,7 +117,7 @@ Finally we just need to implement our handler for after a successful authenticat
 
 You can test your connection with a simple query like this:
 
-```
+```objectivec
   [[SFRestAPI sharedInstance] performSOQLQuery:@"SELECT id FROM Account" failBlock:^(NSError *e) {
     
   } completeBlock:^(NSDictionary *dict) {

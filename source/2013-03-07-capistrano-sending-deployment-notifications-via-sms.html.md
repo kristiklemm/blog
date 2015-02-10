@@ -18,7 +18,7 @@ I create a simple rake task that uses's Twlio's API to send the message. Twilio 
 
 Here's the rake task that will call the Twilio API and send the message.
 
-```
+```ruby
 # Create a rake task that sends the message using Twilio. You'll 
 # need a Twilio SID and Token as well as number
 namespace :sms do
