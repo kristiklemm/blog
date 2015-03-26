@@ -120,7 +120,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  dotenv
   middleman
   middleman-blog
   middleman-dotenv
