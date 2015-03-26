@@ -1,6 +1,6 @@
 ---
 title: Ten tools to help build automated marketing websites.
-subtitle: Marketing automation tools for the rest of us.
+subtitle: A collection of tools that any size company can use to start automating their marketing efforts. 
 date: 2015-03-25 06:06 +0000
 tags: seo, sem, automated marketing
 category: marketing
