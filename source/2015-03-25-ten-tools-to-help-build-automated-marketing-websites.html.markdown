@@ -12,8 +12,6 @@ author:
 time_to_read: 15 mins
 ---
 
-# Ten tools to help build automated marketing websites.
----
 
 One thing that sets [kohactive](http://www.kohactive.com) apart from a lot of traditional marketing agencies is our focus on technology. In this ever evolving world of social media and machine learning, the new and innovative marketing solutions demanded by the marketing departments around the world has created a space race of user engagement technology.
 
