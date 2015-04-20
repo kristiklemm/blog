@@ -1,9 +1,9 @@
 ---
-title: Ten tools to help build automated marketing websites.
+title: Ten tools to help build automated marketing websites
 subtitle: A collection of tools that any size company can use to start automating their marketing efforts. 
 date: 2015-03-25 06:06 +0000
 tags: seo, sem, automated marketing
-category: marketing
+category: Marketing
 author:
   name: Justin McNally
   email: justin@kohactive.com
@@ -12,10 +12,9 @@ author:
 time_to_read: 15 mins
 ---
 
-
 One thing that sets [kohactive](http://www.kohactive.com) apart from a lot of traditional marketing agencies is our focus on technology. In this ever evolving world of social media and machine learning, the new and innovative marketing solutions demanded by the marketing departments around the world has created a space race of user engagement technology.
 
-In this year's Super Bowl for example, We saw some cutting edge strategies from companies like Coca-Cola. Rather than the traditional jokes and shock value, they created value by automating the remix of people's social media content. If you replied to a negative tweet with the hash tag [#MakeItHappy](http://www.gomakeithappy.com/), Cocoa-Cola would send an automated response turning the tweet in to a fun and friendly picture.
+In this year's Super Bowl for example, We saw some cutting edge strategies from companies like Coca-Cola. Rather than the traditional jokes and shock value, they created value by automating the remix of people's social media content. If you replied to a negative tweet with the hash tag [#MakeItHappy](http://www.gomakeithappy.com/), Coca-Cola would send an automated response turning the tweet in to a fun and friendly picture.
 
 In the case of Coca-Cola this was custom software, and at kohactive we have created similar solutions to help clients improve their social media engagement. These solutions cost money to develop and are often disposable after use, however this doesn't make social media marketing and automation any less important. 
 
