@@ -1,9 +1,14 @@
 ---
 title: Speeding Up Your Website Load Times With ETag, GZip and Expire Headers
 date: 2010-11-29 22:21 UTC
-author: John Koht
 category: Programming
 tags: Performance, Web Application Speed
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 5 min
 ---
 
 Even though most internet connections are getting faster, it's become increasingly important to build faster, smarter, and more light-weight websites. Yahoo and Google now factor load speeds into their rankings, which makes it even more important.

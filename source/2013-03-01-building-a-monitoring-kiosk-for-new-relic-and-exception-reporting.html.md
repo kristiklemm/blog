@@ -1,9 +1,14 @@
 ---
 title: Building a monitoring kiosk for New Relic and Exception Reporting
 date: 2013-03-01 22:21 UTC
-author: Justin McNally
 category: Programming
 tags: Apple, Apps, New Relic, DevOps
+author:
+  name: Justin McNally
+  email: justin@kohactive.com
+  twitter: j_mcnally
+  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+time_to_read: 10 min
 ---
 
 Back in July we were working on a fairly large project for Groupon. We had a number of meetings in their office and one of the things I found most impressive were mounted monitors that would stream news updates and NewRelic graphs throughout their engineering department. I thought this is really neat and was something I wanted to bring into our office. 

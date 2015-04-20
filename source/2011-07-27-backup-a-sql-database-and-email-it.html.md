@@ -1,9 +1,14 @@
 ---
 title: Backup a SQL Database and email it.
 date: 2011-07-27 22:21 UTC
-author: Justin McNally
 category: Programming
 tags: MySQL, Database Backups, Web Development
+author:
+  name: Justin McNally
+  email: justin@kohactive.com
+  twitter: j_mcnally
+  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+time_to_read: 9 min
 ---
 
 ![Database](http://a.jko.ht/m/1311833851database_design.jpg)

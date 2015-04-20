@@ -9,7 +9,7 @@ author:
   email: john@kohactive.com
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
-time_to_read: 2 mins
+time_to_read: 2 min
 ---
 
 A Minimum Viable Products is the foundation of a lot of successful companies. When I recommend an MVP to clients, they are typically skeptical and ask for some examples of companies they know that started with an MVP.

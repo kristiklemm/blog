@@ -1,9 +1,14 @@
 ---
 title: How to Prepare for a Web Design Project
 date: 2010-11-29 22:21 UTC
-author: John Koht
 category: Resource
 tags: Planning, Web Design, Client Resources
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 7 min
 ---
 
 One of the most common questions I get asked prior to project engagement is “How do we prepare for the project?” or “What do you need from us?”. Throughout the years I used to make a checklist for each client. Although it was quite tedious, it got the job done.

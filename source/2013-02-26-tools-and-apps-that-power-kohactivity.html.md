@@ -1,9 +1,14 @@
 ---
 title: Tools and Apps that Power kohactivity!
 date: 2013-02-26 22:21 UTC
-author: John Koht
 category: Resources
 tags: Project Management, Productivity, Apps
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 7 min
 ---
 
 ![Basecamp](http://cl.ly/Zgn4/cartoon-people-29fe9ee536cf7f0a370405f35bef2093.jpg)

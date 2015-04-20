@@ -1,9 +1,14 @@
 ---
 title: "Capistrano: Sending Deployment Notifications via SMS"
 date: 2013-03-07 22:21 UTC
-author: John Koht
 category: Programming
 tags: capistrano, deployments, ruby
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 3 min
 ---
 
 When Gino first witnessed a deployment occurring in somebody's terminal window he was amazed by "the thing" that was happening. As a joke, we used to always notify him when we're "doing the thing". I decided to take our joke to another level and send text messages to him before and after each deployment, regardless of whether he's sitting across from me or not. 

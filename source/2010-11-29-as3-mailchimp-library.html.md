@@ -4,6 +4,12 @@ date: 2010-11-29 22:21 UTC
 author: John Koht
 category: Open Source
 tags: AS3, Mailchimp, ActionScript
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 2 min
 ---
 
 Since we first released the AS3 MailChimp Library we've recieved numerous comments, emails and message regarding updates, changes, errors and more. Here is the latest version of the Class and what it includes:

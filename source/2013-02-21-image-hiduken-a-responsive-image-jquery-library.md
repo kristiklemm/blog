@@ -1,9 +1,14 @@
 ---
 title: "Image Hiduken: A Responsive Image jQuery Library"
 date: 2013-02-21 22:21 UTC
-author: John Koht
 category: Open Source
 tags: jQuery, Responsive Design, Responsive Images
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 4 min
 ---
 
 Responsive design is becoming increasingly popular, and deservedly so, as it provides a solution to create websites that are not only accesible across all devices but optimized for the viewport. One of the problems with responsive design is images: how do you create responsive images. 

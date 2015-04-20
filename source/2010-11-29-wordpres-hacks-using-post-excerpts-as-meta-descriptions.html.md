@@ -1,9 +1,14 @@
 ---
 title: "WordPress Hacks: Using Post Excerpts as Meta Descriptions"
 date: 2010-11-29 22:21 UTC
-author: John Koht
 category: Programming
 tags: WordPress, Web Development, PHP
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 4 min
 ---
 
 When you build a static website with a few separate HTML files you find it easy to optimize each page for search engines, load times and meta information. When using a template based application like WordPress, this kind of customization is a bit trickier. But with a few good hacks you’ll be able to easily optimize each page for your needs.

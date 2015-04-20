@@ -1,9 +1,14 @@
 ---
 title: Building Trust With Social Media
 date: 2010-11-29 22:21 UTC
-author: John Koht
 category: Resources
 tags: social media, client resources, marketing
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 4 min
 ---
 
 While every business is realizing that Social Media is a powerful and dominating marketing channel, most fail to realize one of the basic, underlying principles of effective communication: trust. In order to effectively utilize social media to reach audiences, build relationships and grow your business you must understand the importance of trust.

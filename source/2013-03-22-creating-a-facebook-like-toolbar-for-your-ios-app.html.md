@@ -1,9 +1,14 @@
 ---
 title: Creating a Facebook Like Toolbar for your IOS app.
 date: 2013-03-22 22:21 UTC
-author: Justin McNally
 category: Programming
 tags: UI Design, Objective-C, iOS, iOS Development
+author:
+  name: Justin McNally
+  email: justin@kohactive.com
+  twitter: j_mcnally
+  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+time_to_read: 6 min
 ---
 
 ![iOS Toolbar](http://cl.ly/ZhwB/Screen_Shot_2013-03-22_at_12.20.59_PM.png)

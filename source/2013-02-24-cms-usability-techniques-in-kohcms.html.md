@@ -1,9 +1,14 @@
 ---
 title: CMS Usability Techniques that we Integrated into kohCMS
 date: 2013-02-24 22:21 UTC
-author: John Koht
 category: Design
 tags: User Experience, kohCMS, UI Design
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 9 min
 ---
 
 After five years and four versions of kohCMS, we've learned a lot about building content management systems and how users interact with them. I'd like to share some of the usability techniques we integrated into kohCMS v4 to make it successful.

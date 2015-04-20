@@ -1,9 +1,14 @@
 ---
 title: How to play FLV files on Offical VLC for iPad
 date: 2010-11-29 22:21 UTC
-author: Justin McNally
 category: Programming
 tags: iPad, iOS, VLC, Video
+author:
+  name: Justin McNally
+  email: justin@kohactive.com
+  twitter: j_mcnally
+  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+time_to_read: 5 min
 ---
 
 Here's a simple overview on how to play FLV files on the Official VLC for iPad app.

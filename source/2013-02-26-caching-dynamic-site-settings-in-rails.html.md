@@ -1,9 +1,14 @@
 ---
 title: Caching Dynamic Site Settings in Rails
 date: 2013-02-26 22:21 UTC
-author: John Koht
 category: Programming
 tags: Ruby on Rails, Caching, Performance
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 6 min
 ---
 
 I believe speed is one of the most important aspects of a successful website or application. There are a variety of approaches that you can take to optimize your load times. Aside from server configuration, CDNs and other techniques, we also like to focus on caching. Our CMS is customizable. Not just the content but the settings and configurations, too. Including items like like commenting, posts per page, default meta title, default meta description, Twitter handle, Facebook handle and much more. Some projects have customized settings as kohCMS allows admins to create new settings.

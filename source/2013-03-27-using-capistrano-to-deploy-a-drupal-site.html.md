@@ -1,9 +1,14 @@
 ---
 title: Using capistrano to deploy a Drupal site.Images
 date: 2013-03-27 22:21 UTC
-author: Justin McNally
 category: DevOps
 tags: Drupal, PHP, Capistrano
+author:
+  name: Justin McNally
+  email: justin@kohactive.com
+  twitter: j_mcnally
+  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+time_to_read: 7 min
 ---
 
 ![Deploying Druplal with Capistrano](http://cl.ly/Zi0H/Screen_Shot_2013-03-27_at_8.09.24_PM.png)

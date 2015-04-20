@@ -1,9 +1,14 @@
 ---
 title: Proxy APIs To Avoid Same-Origin Issues
 date: 2013-04-16 22:21 UTC
-author: Justin McNally
 category: DevOps
 tags: Ember, Nginx, DevOps
+author:
+  name: Justin McNally
+  email: justin@kohactive.com
+  twitter: j_mcnally
+  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+time_to_read: 6 min
 ---
 
 ![Proxy APIs](http://cl.ly/ZiRR/operator.jpg)

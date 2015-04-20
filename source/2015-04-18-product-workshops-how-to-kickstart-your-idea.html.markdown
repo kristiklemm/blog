@@ -9,7 +9,7 @@ author:
   email: john@kohactive.com
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
-time_to_read: 2 mins
+time_to_read: 2 min
 ---
 
 Building a business is hard. Real hard. Most startups fail because they run out of money or don't find the right market fit. This is because they failed to survey the market, identify a real problem and validate learnings.  

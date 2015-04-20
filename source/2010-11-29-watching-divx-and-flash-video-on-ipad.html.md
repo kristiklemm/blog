@@ -1,9 +1,14 @@
 ---
 title: Watching Divx and Flash Video on IPAD
 date: 2010-11-29 22:21 UTC
-author: Justin McNally
 category: Fun
 tags: iPad, Apple, iOS Hacks
+author:
+  name: Justin McNally
+  email: justin@kohactive.com
+  twitter: j_mcnally
+  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+time_to_read: 3 min
 ---
 
 Both are now possible without jail breaking by purchasing yxplayer, I love it so far after i figured out how to work it.

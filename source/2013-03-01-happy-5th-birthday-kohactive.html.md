@@ -1,9 +1,14 @@
 ---
 title: Happy 5th Birthday, kohactive!
 date: 2013-03-01 22:21 UTC
-author: John Koht
 category: Business
 tags: Birthday, kohactive
+author:
+  name: John Koht
+  email: john@kohactive.com
+  twitter: johnkoht
+  avatar: http://a.jko.ht/m/profile-pic.jpeg
+time_to_read: 2 min
 ---
 
 Five years ago kohactive began with a simple mission, build great web and mobile products for clients, ourselves and the world. Since our inception, we've grown in size, worked with some amazing clients and learned a lot while the riding the roller coaster of the interwebs.
