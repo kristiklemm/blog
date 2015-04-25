@@ -16,7 +16,7 @@ banner: true
 
 Building a business is hard. Real hard. Most startups fail because they run out of money or don't find the right market fit. This is because they failed to survey the market, identify a real problem and validate learnings.  
 
-Building a sustainable business isn't about features, it's about identifying a real world problem and finding the right market fit. Unfortunately, both are incredible difficult to achieve. 
+Building a sustainable business isn't about features, it's about identifying a real world problem and finding the right market fit. Unfortunately, both are incredibly difficult to achieve. 
 
 Most first-time entrepreneurs want to throw all of their eggs in one basket, they believe their product won't be successful unless it has all of the features, including the bells and whistles. Unfortunately, most of these startups fail.
 
