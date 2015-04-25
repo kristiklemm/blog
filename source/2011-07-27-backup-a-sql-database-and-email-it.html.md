@@ -9,6 +9,7 @@ author:
   twitter: j_mcnally
   avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
 time_to_read: 9 min
+image: http://a.jko.ht/m/1311833851database_design.jpg
 ---
 
 ![Database](http://a.jko.ht/m/1311833851database_design.jpg)

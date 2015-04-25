@@ -9,6 +9,9 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 10 min
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/20/sm-graphic.jpg
+featured: true
+banner: true
 ---
 
 Whenever we engage in a web production, we always build a site map. A site map is the architectural framework for the project, whether a large scale system or a five-page website. When clients understand how to build site maps, the web design process becomes increasingly efficient for both parties. The following is a resource we’ve created to assist clients in [preparing and organizing for small to medium size websites](http://kohactive.com/blog/preparing-for-a-web-design-project).

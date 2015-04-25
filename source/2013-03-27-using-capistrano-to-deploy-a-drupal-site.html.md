@@ -1,5 +1,5 @@
 ---
-title: Using capistrano to deploy a Drupal site.Images
+title: Using capistrano to deploy a Drupal site
 date: 2013-03-27 22:21 UTC
 category: DevOps
 tags: Drupal, PHP, Capistrano
@@ -9,6 +9,7 @@ author:
   twitter: j_mcnally
   avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
 time_to_read: 7 min
+image: http://cl.ly/Zi0H/Screen_Shot_2013-03-27_at_8.09.24_PM.png
 ---
 
 ![Deploying Druplal with Capistrano](http://cl.ly/Zi0H/Screen_Shot_2013-03-27_at_8.09.24_PM.png)

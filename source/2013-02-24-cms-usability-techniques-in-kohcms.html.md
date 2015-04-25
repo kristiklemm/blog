@@ -9,6 +9,7 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 9 min
+image: http://a.jko.ht/m/blog_standard_ios-navigation.jpg
 ---
 
 After five years and four versions of kohCMS, we've learned a lot about building content management systems and how users interact with them. I'd like to share some of the usability techniques we integrated into kohCMS v4 to make it successful.

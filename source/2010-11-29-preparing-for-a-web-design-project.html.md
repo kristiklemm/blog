@@ -9,6 +9,9 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 7 min
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/19/picjumbo.com_HNCK5096.jpg
+banner: true
+featured: true
 ---
 
 One of the most common questions I get asked prior to project engagement is “How do we prepare for the project?” or “What do you need from us?”. Throughout the years I used to make a checklist for each client. Although it was quite tedious, it got the job done.

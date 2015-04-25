@@ -9,6 +9,7 @@ author:
   twitter: j_mcnally
   avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
 time_to_read: 6 min
+image: http://cl.ly/ZhwB/Screen_Shot_2013-03-22_at_12.20.59_PM.png
 ---
 
 ![iOS Toolbar](http://cl.ly/ZhwB/Screen_Shot_2013-03-22_at_12.20.59_PM.png)

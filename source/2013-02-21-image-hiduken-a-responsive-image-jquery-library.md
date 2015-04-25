@@ -9,6 +9,7 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 4 min
+image: http://www.kohactive.com/assets/images/responsive.png?1426728967
 ---
 
 Responsive design is becoming increasingly popular, and deservedly so, as it provides a solution to create websites that are not only accesible across all devices but optimized for the viewport. One of the problems with responsive design is images: how do you create responsive images. 

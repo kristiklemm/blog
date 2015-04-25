@@ -9,6 +9,7 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 5 min
+image: http://cl.ly/Zi11/responsive_web_design.png
 ---
 
 ![Responsive Web Deign Chicago](http://cl.ly/Zi11/responsive_web_design.png)

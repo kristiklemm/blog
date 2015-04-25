@@ -10,6 +10,9 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 2 min
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/21/freddie-mc.jpg
+banner: true
+featured: true
 ---
 
 Since we first released the AS3 MailChimp Library we've recieved numerous comments, emails and message regarding updates, changes, errors and more. Here is the latest version of the Class and what it includes:
