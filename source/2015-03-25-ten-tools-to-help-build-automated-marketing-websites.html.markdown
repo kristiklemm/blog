@@ -10,6 +10,10 @@ author:
   twitter: j_mcnally
   avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
 time_to_read: 15 min
+featured: true
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/22/marketing-automation.jpg
+banner: true
+featured: true
 ---
 
 One thing that sets [kohactive](http://www.kohactive.com) apart from a lot of traditional marketing agencies is our focus on technology. In this ever evolving world of social media and machine learning, the new and innovative marketing solutions demanded by the marketing departments around the world has created a space race of user engagement technology.

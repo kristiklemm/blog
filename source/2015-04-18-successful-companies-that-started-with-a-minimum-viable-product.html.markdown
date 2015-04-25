@@ -12,6 +12,7 @@ author:
 time_to_read: 2 min
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/16/TWITTER-LOGO1-AZ1.jpg
 banner: true
+featured: true
 ---
 
 A Minimum Viable Products is the foundation of a lot of successful companies. When I recommend an MVP to clients, they are typically skeptical and ask for some examples of companies they know that started with an MVP.
