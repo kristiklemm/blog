@@ -12,7 +12,8 @@ author:
 time_to_read: 2 min
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/13/startup-59.jpg
 banner: true
-featued: true
+featured: true
+primary: true
 ---
 
 Building a business is hard. Real hard. Most startups fail because they run out of money or don't find the right market fit. This is because they failed to survey the market, identify a real problem and validate learnings.  
