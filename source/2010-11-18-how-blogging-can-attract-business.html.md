@@ -9,6 +9,7 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 5 min
+background_color: "$brand-ecommerce"
 ---
 
 Blogging is one of the most important social media channels available to any business. It’s great because it’s free and it’s easy to do. The only problem is that most people have no idea what to blog about. My response to all clients is the same: Blog about your industry and what you know about it.  Here at kohactive we blog about technology, web development, social media and our iphones. Note that we blog about what we know and do. And not only that, but blogging has made us money and it can absolutely do the same for you.

@@ -10,6 +10,7 @@ author:
   avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
 time_to_read: 13 min
 image: http://cl.ly/ZhOj/Authorization.png
+background_color: "#1798c1"
 ---
 
 ![SalesForce](http://cl.ly/ZhOj/Authorization.png)

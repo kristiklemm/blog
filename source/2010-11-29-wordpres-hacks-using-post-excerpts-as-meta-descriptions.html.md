@@ -9,6 +9,7 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 4 min
+background_color: "$brand-process-discovery"
 ---
 
 When you build a static website with a few separate HTML files you find it easy to optimize each page for search engines, load times and meta information. When using a template based application like WordPress, this kind of customization is a bit trickier. But with a few good hacks you’ll be able to easily optimize each page for your needs.

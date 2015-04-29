@@ -10,6 +10,7 @@ author:
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 7 min
 image: http://cl.ly/Zgn4/cartoon-people-29fe9ee536cf7f0a370405f35bef2093.jpg
+background_color: "$brand-process-design"
 ---
 
 ![Basecamp](http://cl.ly/Zgn4/cartoon-people-29fe9ee536cf7f0a370405f35bef2093.jpg)

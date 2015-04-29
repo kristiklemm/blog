@@ -9,6 +9,7 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 5 min
+background_color: "$brand-strategy"
 ---
 
 Even though most internet connections are getting faster, it's become increasingly important to build faster, smarter, and more light-weight websites. Yahoo and Google now factor load speeds into their rankings, which makes it even more important.

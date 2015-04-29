@@ -9,6 +9,7 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 5 min
+background_color: "$brand-engineering"
 ---
 
 With the dawn of “Web 2.0″ it became apparent that the Internet and the World Wide Web was evolving. At that point in Internet time there had been so many advances in the technology, infrastructure and potential of the web that nobody could resist it’s importance to the future of our cultural and economic future. The only problem was that nobody could accurately define what the hell “Web 2.0″ meant. That loose, ambiguous word was devoid of any “defining” characteristics of the actual version of the web, and consequently, versioning the web became tedious.

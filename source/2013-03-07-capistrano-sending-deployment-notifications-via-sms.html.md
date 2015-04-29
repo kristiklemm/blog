@@ -9,6 +9,7 @@ author:
   twitter: johnkoht
   avatar: http://a.jko.ht/m/profile-pic.jpeg
 time_to_read: 3 min
+background_color: "$brand-web-design"
 ---
 
 When Gino first witnessed a deployment occurring in somebody's terminal window he was amazed by "the thing" that was happening. As a joke, we used to always notify him when we're "doing the thing". I decided to take our joke to another level and send text messages to him before and after each deployment, regardless of whether he's sitting across from me or not. 

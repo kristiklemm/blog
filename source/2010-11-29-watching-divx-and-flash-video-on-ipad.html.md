@@ -9,6 +9,7 @@ author:
   twitter: j_mcnally
   avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
 time_to_read: 3 min
+background_color: "$brand-mobile"
 ---
 
 Both are now possible without jail breaking by purchasing yxplayer, I love it so far after i figured out how to work it.

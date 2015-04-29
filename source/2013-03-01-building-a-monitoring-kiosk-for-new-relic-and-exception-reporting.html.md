@@ -10,6 +10,7 @@ author:
   avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
 time_to_read: 10 min
 image: http://a.jko.ht/m/blog_standard_BDkj_usCEAA_AsG.jpg
+background_color: "$brand-process-engineering"
 ---
 
 Back in July we were working on a fairly large project for Groupon. We had a number of meetings in their office and one of the things I found most impressive were mounted monitors that would stream news updates and NewRelic graphs throughout their engineering department. I thought this is really neat and was something I wanted to bring into our office. 
