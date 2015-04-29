@@ -3,11 +3,7 @@ title: "ResponsiveImages: A Ruby Gem for Server and Client-Side Responsive Image
 date: 2013-03-23 22:21 UTC
 category: Open Source
 tags: Ruby on Rails, Responsive Images, Responsive Design
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 5 min
 image: http://cl.ly/Zi11/responsive_web_design.png
 background_color: "$brand-web-design"

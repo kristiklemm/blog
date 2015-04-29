@@ -3,11 +3,7 @@ title: "WordPress Hacks: Using Post Excerpts as Meta Descriptions"
 date: 2010-11-29 22:21 UTC
 category: Programming
 tags: WordPress, Web Development, PHP
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 4 min
 background_color: "$brand-process-discovery"
 ---

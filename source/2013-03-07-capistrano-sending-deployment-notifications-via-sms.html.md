@@ -3,11 +3,7 @@ title: "Capistrano: Sending Deployment Notifications via SMS"
 date: 2013-03-07 22:21 UTC
 category: Programming
 tags: capistrano, deployments, ruby
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 3 min
 background_color: "$brand-web-design"
 ---

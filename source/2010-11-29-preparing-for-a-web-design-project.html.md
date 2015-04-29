@@ -3,11 +3,7 @@ title: How to Prepare for a Web Design Project
 date: 2010-11-29 22:21 UTC
 category: Resource
 tags: Planning, Web Design, Client Resources
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 7 min
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/19/picjumbo.com_HNCK5096.jpg
 banner: true

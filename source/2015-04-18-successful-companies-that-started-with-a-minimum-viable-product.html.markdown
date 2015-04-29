@@ -4,11 +4,7 @@ subtitle:
 date: 2015-04-18 22:15 +0000
 tags: Startups, MVPs
 category: Startups
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 2 min
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/16/TWITTER-LOGO1-AZ1.jpg
 banner: true

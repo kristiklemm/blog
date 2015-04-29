@@ -4,11 +4,7 @@ subtitle: A collection of tools that any size company can use to start automatin
 date: 2015-03-25 06:06 +0000
 tags: seo, sem, automated marketing
 category: Marketing
-author:
-  name: Justin McNally
-  email: justin@kohactive.com
-  twitter: j_mcnally
-  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+author_id: j_mcnally
 time_to_read: 15 min
 featured: true
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/22/marketing-automation.jpg

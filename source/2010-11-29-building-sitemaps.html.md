@@ -3,11 +3,7 @@ title: How to Build a Site Map for a Web Project
 date: 2010-11-29 22:21 UTC
 category: Resource
 tags: Planning, Web Design, Sitemap
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 10 min
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/20/sm-graphic.jpg
 featured: true

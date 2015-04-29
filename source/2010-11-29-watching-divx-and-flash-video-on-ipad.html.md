@@ -3,11 +3,7 @@ title: Watching Divx and Flash Video on IPAD
 date: 2010-11-29 22:21 UTC
 category: Fun
 tags: iPad, Apple, iOS Hacks
-author:
-  name: Justin McNally
-  email: justin@kohactive.com
-  twitter: j_mcnally
-  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+author_id: j_mcnally
 time_to_read: 3 min
 background_color: "$brand-mobile"
 ---

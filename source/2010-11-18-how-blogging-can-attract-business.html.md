@@ -3,11 +3,7 @@ title: How Blogging Can Attract Business
 date: 2010-11-18 22:21 UTC
 category: Resources
 tags: blogging, inbound marketing
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 5 min
 background_color: "$brand-ecommerce"
 ---

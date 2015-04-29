@@ -3,11 +3,7 @@ title: Caching Dynamic Site Settings in Rails
 date: 2013-02-26 22:21 UTC
 category: Programming
 tags: Ruby on Rails, Caching, Performance
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 6 min
 background_color: "#9c3331"
 background_gradient: false

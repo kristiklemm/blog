@@ -3,11 +3,7 @@ title: Using the Salesforce Mobile SDK on iOS without it taking over your app.
 date: 2013-03-18 22:21 UTC
 category: Programming
 tags: iOS Development, xcode, Objective-C, SalesForce
-author:
-  name: Justin McNally
-  email: justin@kohactive.com
-  twitter: j_mcnally
-  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+author_id: j_mcnally
 time_to_read: 13 min
 image: http://cl.ly/ZhOj/Authorization.png
 background_color: "#1798c1"

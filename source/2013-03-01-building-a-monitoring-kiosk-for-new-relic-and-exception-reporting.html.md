@@ -3,11 +3,7 @@ title: Building a monitoring kiosk for New Relic and Exception Reporting
 date: 2013-03-01 22:21 UTC
 category: Programming
 tags: Apple, Apps, New Relic, DevOps
-author:
-  name: Justin McNally
-  email: justin@kohactive.com
-  twitter: j_mcnally
-  avatar: https://pbs.twimg.com/profile_images/570726681204117504/ltkFf5dq.jpeg
+author_id: j_mcnally
 time_to_read: 10 min
 image: http://a.jko.ht/m/blog_standard_BDkj_usCEAA_AsG.jpg
 background_color: "$brand-process-engineering"

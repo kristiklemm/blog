@@ -4,11 +4,7 @@ subtitle: A custom tailored session to ideate and identify your MVP.
 date: 2015-04-18 19:52 +0000
 tags: Startups, MVPs, Product Workshop
 category: Startups
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 2 min
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/13/startup-59.jpg
 banner: true

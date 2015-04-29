@@ -3,11 +3,7 @@ title: On Versioning The Web and The Future
 date: 2010-11-29 22:21 UTC
 category: Strategy
 tags: Web, Think
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 5 min
 background_color: "$brand-engineering"
 ---

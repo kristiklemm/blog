@@ -3,11 +3,7 @@ title: Building Trust With Social Media
 date: 2010-11-29 22:21 UTC
 category: Resources
 tags: social media, client resources, marketing
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 4 min
 ---
 

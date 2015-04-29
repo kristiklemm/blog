@@ -3,11 +3,7 @@ title: "Image Hiduken: A Responsive Image jQuery Library"
 date: 2013-02-21 22:21 UTC
 category: Open Source
 tags: jQuery, Responsive Design, Responsive Images
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 4 min
 image: http://www.kohactive.com/assets/images/responsive.png?1426728967
 background_color: "$brand-process-strategy"

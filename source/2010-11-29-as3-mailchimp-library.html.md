@@ -1,14 +1,9 @@
 ---
 title: AS3 MailChimp Library Version 1.5
 date: 2010-11-29 22:21 UTC
-author: John Koht
 category: Open Source
 tags: AS3, Mailchimp, ActionScript
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 2 min
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/21/freddie-mc.jpg
 banner: true

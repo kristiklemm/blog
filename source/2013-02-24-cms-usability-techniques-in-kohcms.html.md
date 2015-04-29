@@ -3,11 +3,7 @@ title: CMS Usability Techniques that we Integrated into kohCMS
 date: 2013-02-24 22:21 UTC
 category: Design
 tags: User Experience, kohCMS, UI Design
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 9 min
 image: http://a.jko.ht/m/blog_standard_ios-navigation.jpg
 ---

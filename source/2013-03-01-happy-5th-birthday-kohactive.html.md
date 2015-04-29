@@ -3,11 +3,7 @@ title: Happy 5th Birthday, kohactive!
 date: 2013-03-01 22:21 UTC
 category: Business
 tags: Birthday, kohactive
-author:
-  name: John Koht
-  email: john@kohactive.com
-  twitter: johnkoht
-  avatar: http://a.jko.ht/m/profile-pic.jpeg
+author_id: johnkoht
 time_to_read: 2 min
 ---
 
