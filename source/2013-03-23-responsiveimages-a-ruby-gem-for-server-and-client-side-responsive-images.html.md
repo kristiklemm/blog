@@ -1,5 +1,6 @@
 ---
 title: "ResponsiveImages: A Ruby Gem for Server and Client-Side Responsive Images"
+subtitle: A simple, flexible and elegant solution for responsive images in rails applications.
 date: 2013-03-23 22:21 UTC
 category: Open Source
 tags: Ruby on Rails, Responsive Images, Responsive Design

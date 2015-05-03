@@ -1,5 +1,6 @@
 ---
 title: How to Prepare for a Web Design Project
+subtitle: A guide to researching and preparing for any size web design project.
 date: 2010-11-29 22:21 UTC
 category: Resource
 tags: Planning, Web Design, Client Resources

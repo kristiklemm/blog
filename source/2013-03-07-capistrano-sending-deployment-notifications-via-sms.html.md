@@ -1,5 +1,6 @@
 ---
 title: "Capistrano: Sending Deployment Notifications via SMS"
+subtitle: Because who doesn't want text message notifications when your deploying code
 date: 2013-03-07 22:21 UTC
 category: Programming
 tags: capistrano, deployments, ruby

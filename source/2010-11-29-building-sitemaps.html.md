@@ -1,5 +1,6 @@
 ---
 title: How to Build a Site Map for a Web Project
+subtitle: Sitemaps are the foundation of good information architecture and content strategy.
 date: 2010-11-29 22:21 UTC
 category: Resource
 tags: Planning, Web Design, Sitemap

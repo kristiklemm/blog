@@ -1,5 +1,6 @@
 ---
 title: Tools and Apps that Power kohactivity!
+subtitle: From communication to project management, some tools we use to enhance our productivity.
 date: 2013-02-26 22:21 UTC
 category: Resources
 tags: Project Management, Productivity, Apps
