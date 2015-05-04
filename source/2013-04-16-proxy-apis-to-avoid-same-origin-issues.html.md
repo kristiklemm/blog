@@ -6,7 +6,7 @@ tags: Ember, Nginx, DevOps
 author_id: j_mcnally
 time_to_read: 6 min
 image: http://cl.ly/ZiRR/operator.jpg
-background_color: "$brand-web-engineering"
+background_color: "$brand-process-engineering"
 ---
 
 ![Proxy APIs](http://cl.ly/ZiRR/operator.jpg)
