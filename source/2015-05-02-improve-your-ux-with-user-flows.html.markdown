@@ -5,7 +5,7 @@ date: 2015-05-02 16:02 +0000
 tags: User Experience, User Flows
 category: Design
 author_id: johnkoht
-time_to_read:
+time_to_read: 6 min
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/25/sign-up-flow.jpg
 banner: true
 featured: true
