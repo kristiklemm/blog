@@ -27,13 +27,13 @@ Users don't just land on pages from anywhere, they arrive there to achieve a spe
 
 User flows are simple diagrams that illustrate the steps involved in achieving a goal. These flows can be an in-app experience, a cross-application experience or even a cross-device experience.
 
-**In-App User Flow**
+**In-App User Flow**  
 An e-commerce checkout flow is a basic example where a user wants to purchase a product but is required to add their address, billing and payment information before they can complete their purchase. You've probably experienced this hundreds of times.
 
-**Cross-Application User Flow**
+**Cross-Application User Flow**  
 User flows don't have to be designed within your own website or app, it can be part of a larger flow. You can create user flows around ad units. For example, a banner ad that leads to a landing page where you want to collect email subscriptions. This flow would use a third party website, your own website, an email signup form and, most likely, a confirmation email.
 
-**Cross-Device User Flow**
+**Cross-Device User Flow**  
 Sometimes you need users to pick up another device in order to accomplish their goal. These are tricky situations and need be handled with care. For example, sometimes an application requires you to confirm your phone number by sending you a text message with a code that you have to confirm.
 
 
