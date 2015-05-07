@@ -13,9 +13,9 @@ featured: true
 
 Design is a process. But it doesn't have to be a difficult and unorganized process. Over the past few years, we've added new tools and techniques that have streamlined and improved our process. One of the most important techniques is designing user flows. 
 
-The problem with sitemaps, wireframes and page layouts is that they don't address the user's needs. Instead, they just create a visual architecture for what pages will look like. User flows, on the other hand, allow us to address user needs before we begin the visual designs process, which should help us create better product.
+The problem with sitemaps, wireframes and page layouts is that they don't address the users' needs. Instead, they just create a visual architecture for what pages will look like. User flows, on the other hand, allow us to address users' needs before we begin the visual designs process, which should help us create better product.
 
-![User Personas](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/24/personas.jpg)
+![User Personas](http://resizer.kohactive.com/1000/600/fit/https://s3.amazonaws.com/mediocre-production/uploads/image/filename/24/personas.jpg)
 
 ## User Flows Begin With The User
 
@@ -25,16 +25,16 @@ Users don't just land on pages from anywhere, they arrive there to achieve a spe
 
 ## What Are User Flows
 
-User flows are simple diagrams that illustrate the steps involved in achieving a goal. These flows can be an in-app experience, a cross-application experience or even a cross-devise experience.
+User flows are simple diagrams that illustrate the steps involved in achieving a goal. These flows can be an in-app experience, a cross-application experience or even a cross-device experience.
 
 **In-App User Flow**
-An e-commerce checkout flow is a basic example where a user want's to purchase a product but is required to add their address, billing and payment information before they can complete their purchase. You've probably experience this hundreds of times.
+An e-commerce checkout flow is a basic example where a user wants to purchase a product but is required to add their address, billing and payment information before they can complete their purchase. You've probably experienced this hundreds of times.
 
 **Cross-Application User Flow**
-User flows don't have to be designed within your own website or app, it can be part of a larger flow. You can create user flows around ad units. For example, a banner ad that leads to a landing page where you want to collect email subscriptions. This flow would use a third party website, your own website, an email signup for and most likely a confirmation email.
+User flows don't have to be designed within your own website or app, it can be part of a larger flow. You can create user flows around ad units. For example, a banner ad that leads to a landing page where you want to collect email subscriptions. This flow would use a third party website, your own website, an email signup form and, most likely, a confirmation email.
 
-**Cross-Devise User Flow**
-Sometimes you need users to pick up another devise in order to accomplish their goal. These are tricky situations and need be handled with care. For example, sometimes an application requires you to confirm you phone number by sending you a text message with a code that you have to confirm.
+**Cross-Device User Flow**
+Sometimes you need users to pick up another device in order to accomplish their goal. These are tricky situations and need be handled with care. For example, sometimes an application requires you to confirm your phone number by sending you a text message with a code that you have to confirm.
 
 
 ## How To Design User Flows
@@ -46,7 +46,7 @@ We begin our user flows with shorthand diagrams that we sketch on paper or on th
 
 We typically create our first user flows during our planning session or design sprints. It's important to address flows prior to creating sitemaps or wireframes.
 
-![User flow](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/23/user-flow.jpg)
+![User flow](http://resizer.kohactive.com/1000/600/fit/https://s3.amazonaws.com/mediocre-production/uploads/image/filename/23/user-flow.jpg)
 
 ### Wireframe Flows
 
