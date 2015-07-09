@@ -1,5 +1,6 @@
 ---
 title: Using the Salesforce Mobile SDK on iOS without it taking over your app.
+short_title: Salesforce Mobile SDK on iOS Tips
 date: 2013-03-18 22:21 UTC
 category: Programming
 tags: iOS Development, xcode, Objective-C, SalesForce

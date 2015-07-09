@@ -1,5 +1,6 @@
 ---
 title: Speeding Up Your Website Load Times With ETag, GZip and Expire Headers
+short_title: Speeding Up Your Website Load Times
 date: 2010-11-29 22:21 UTC
 category: Programming
 tags: Performance, Web Application Speed

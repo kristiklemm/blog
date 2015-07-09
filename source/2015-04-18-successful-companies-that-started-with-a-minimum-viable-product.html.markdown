@@ -1,5 +1,6 @@
 ---
 title: Successful Companies That Started With a Minimum Viable Product
+short_title: Successful Companies That Started With a MVP
 subtitle: A few examples of startups that adopted the lean-startup approach with an MVP.
 date: 2015-04-18 22:15 +0000
 tags: Startups, MVPs

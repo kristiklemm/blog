@@ -1,5 +1,6 @@
 ---
 title: Building a monitoring kiosk for New Relic and Exception Reporting
+short_title: Monitoring kiosk for New Relic and Exception Reporting
 date: 2013-03-01 22:21 UTC
 category: Programming
 tags: Apple, Apps, New Relic, DevOps
