@@ -2,7 +2,7 @@
 title: Happy 5th Birthday, kohactive!
 date: 2013-03-01 22:21 UTC
 category: Business
-tags: Birthday, kohactive
+tags: kohactive
 author_id: johnkoht
 time_to_read: 2 min
 ---
