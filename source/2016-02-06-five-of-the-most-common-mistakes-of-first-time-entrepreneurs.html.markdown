@@ -7,7 +7,7 @@ category: Startups
 author_name: Kristi Klemm
 author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
-image: https://resizer.kohactive.com/1600/1000/fill/https://images.unsplash.com/photo-1432821596592-e2c18b78144f
+image: https://images.unsplash.com/photo-1432821596592-e2c18b78144f
 banner: true
 featured: true
 ---

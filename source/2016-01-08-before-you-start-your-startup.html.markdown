@@ -5,7 +5,7 @@ date: 2016-01-08 16:02 +0000
 tags: Customer Development, Business Model, Research
 category: Startups
 author_id: johnkoht
-image: https://resizer.kohactive.com/1600/1000/fill/https://images.unsplash.com/photo-1429051781835-9f2c0a9df6e4
+image: https://images.unsplash.com/photo-1429051781835-9f2c0a9df6e4
 banner: true
 featured: true
 ---

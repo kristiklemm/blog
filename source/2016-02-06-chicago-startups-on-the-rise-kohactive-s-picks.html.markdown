@@ -7,6 +7,8 @@ category: Startups
 author_name: Kristi Klemm
 author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
+image: http://a.jko.ht/m/chicago-1.jpg
+banner: true
 ---
 
 We talk to a ton of startup founders, work with a ton of startup clients, attend a ton of Chicago startup events...and build our own startups. We thrive on seeing new ideas and hearing new pitches. Over the last few months, we’ve encountered (in person or print) the five companies below. These are our bets for 2016 Chicago Startups on the Rise.
