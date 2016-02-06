@@ -17,7 +17,7 @@ We talk to a ton of startup founders, work with a ton of startup clients, attend
 
 ## Charlie
 
-Have you ever thought,”I wish I had more time to research for this next meeting?” Insert Charlie. Charlie scans the internet (so you don’t have to) and sends you a one-page summary on the person you’re meeting with. Simple, yet so very useful.
+Have you ever thought, "I wish I had more time to research for this next meeting?" Insert Charlie. Charlie scans the internet (so you don’t have to) and sends you a one-page summary on the person you’re meeting with. Simple, yet so very useful.
 
 **Website**: [https://charlieapp.com/](https://charlieapp.com/)
 
@@ -27,7 +27,7 @@ Have you ever thought,”I wish I had more time to research for this next meetin
 
 ## Deskpass
 
-Deskpass is basically a “classpass” for office sharing, offering. drop-in options to most of the shared office spaces in the city of Chicago. The edge here (since Deskpass is notoriously losing money hand over fist) is the fact that the founding team is the creator of Desktime--the app most shared office spaces already use to book their space. Talk about a natural--and brilliant--next step. We expect big things from this team.
+Deskpass is basically a "classpass" for office sharing, offering. drop-in options to most of the shared office spaces in the city of Chicago. The edge here (since Deskpass is notoriously losing money hand over fist) is the fact that the founding team is the creator of Desktime--the app most shared office spaces already use to book their space. Talk about a natural--and brilliant--next step. We expect big things from this team.
 
 **Website**: [https://www.deskpass.com/](https://www.deskpass.com/ )
 
@@ -37,7 +37,7 @@ Deskpass is basically a “classpass” for office sharing, offering. drop-in op
 
 ## Peanut Butter
 
-**Description**: Election year could be golden for a company like Peanut Butter. Student loan debt is a major political talking point, and Peanut Butter has come up with an interesting--and simple--solution. hey offer student loan repayment as an employee benefit. What a way to help with recruiting.
+**Description**: Election year could be golden for a company like Peanut Butter. Student loan debt is a major political talking point, and Peanut Butter has come up with an interesting--and simple--solution. They offer student loan repayment as an employee benefit. What a way to help with recruiting.
 
 **Website**: [https://www.getpeanutbutter.com](https://www.getpeanutbutter.com/)
 
@@ -47,9 +47,9 @@ Deskpass is basically a “classpass” for office sharing, offering. drop-in op
 
 ## Pearachute
 
-While brand new to the scene, the business model--and founder--are not. A “classpass for children’s classes and activities” makes sense to busy parents or anyone who knows how quickly a child grows from one activity to another. The founder? Tried-and-true Desiree Vargas Wrigley, the founder of GiveForward.
+While brand new to the scene, the business model--and founder--are not. A "classpass for children’s classes and activities" makes sense to busy parents or anyone who knows how quickly a child grows from one activity to another. The founder? Tried-and-true Desiree Vargas Wrigley, the founder of GiveForward.
 
-**Website**: [http://www.pearachute.co/](http://www.pearachute.co/ )
+**Website**: [http://www.pearachute.co/](http://www.pearachute.co/)
 
 **Description**: Pearachute aims to match parents who need to find affordable activities for their kids with providers that have seats to fill.
 
@@ -58,7 +58,7 @@ While brand new to the scene, the business model--and founder--are not. A “cla
 
 ## Snapsheet
 
-Snapsheet has been around since 2011, and are one of the few successful pivot stories. What started as consumer-servicing “Body Shop Bids” pivoted to a tool for the insurance industry. And they have big numbers--with over 11MM in funding, and some important backers,we think you’ll hear big things from Snapsheet this year.
+Snapsheet has been around since 2011, and are one of the few successful pivot stories. What started as consumer-servicing "Body Shop Bids" pivoted to a tool for the insurance industry. And they have big numbers--with over 11MM in funding, and some important backers,we think you’ll hear big things from Snapsheet this year.
 
 **Website**: [http://www.snapsheet.com](http://www.snapsheet.com)
 
