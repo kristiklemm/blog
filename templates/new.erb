@@ -7,10 +7,8 @@ category:
 <% if ENV['AUTHOR_ID'] %>
 author_id: <%= ENV['AUTHOR_ID'] %>
 <% else %>
-author:
-  name: <%= ENV['AUTHOR_NAME'] %>
-  email: <%= ENV['AUTHOR_EMAIL'] %>
-  twitter: <%= ENV['AUTHOR_TWITTER'] %>
-  avatar: <%= ENV['AUTHOR_AVATAR'] %>
+author_name: <%= ENV['AUTHOR_NAME'] %>
+author_twitter: <%= ENV['AUTHOR_TWITTER'] %>
+author_avatar: <%= ENV['AUTHOR_AVATAR'] %>
 <% end %>
 ---
