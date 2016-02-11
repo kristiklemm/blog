@@ -1,5 +1,5 @@
 ---
-title: "Successes and Fails: A Rebranding Story"
+title: "Success and Failure: A Rebranding Story"
 subtitle:
 date: 2016-02-10 23:11 +0000
 tags:
