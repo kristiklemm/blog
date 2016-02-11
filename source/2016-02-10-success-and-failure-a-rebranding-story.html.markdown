@@ -2,13 +2,14 @@
 title: "Success and Failure: A Rebranding Story"
 subtitle:
 date: 2016-02-10 23:11 +0000
-tags:
-category:
+tags:  Branding, Design, Logo Design, Marketing
+category: Marketing
 author_name: Kristi Klemm
 author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
 image: https://static.pexels.com/photos/680/black-and-white-apple-desk-macbook-pro.jpg
 banner: true
+featured: true
 ---
 
 Rebranding a company is tricky. Design and research costs a lot of money, and you always risk the new identity not being well-received by customers. Last week, Uber revealed a brand new look that’s causing a stir. Led by a CEO with no design experience (as many rebrands are), the new logo is meant to make the company feel more inclusive and less sleek. Time will tell as to whether or not the Uber rebrand is a success, but there are plenty of examples of successful rebrands--and rebranding fails--that give us some insight.

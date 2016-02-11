@@ -8,6 +8,7 @@ author_id: johnkoht
 image: https://images.unsplash.com/photo-1429051781835-9f2c0a9df6e4
 banner: true
 featured: true
+primary: true
 ---
 
 Building a startup is tough. Statistically, 90% of startups fail. A [compilation of startup failures by CBInsights][cb-insights-failures] reveals that the majority of them never find a product market fit. Some of these startups spend millions of dollars just to come to this realization. Luckily, there is quite a bit that founders can do to validate their idea, find their market, and understand their customers.
