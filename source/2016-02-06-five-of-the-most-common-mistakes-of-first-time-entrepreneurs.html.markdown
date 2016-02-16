@@ -1,5 +1,6 @@
 ---
 title: Five of the Most Common Mistakes of First-Time Entrepreneurs
+short_title: Five Common Mistakes of First-Time Entrepreneurs
 subtitle: 
 date: 2016-02-06 06:01 +0000
 tags: Startups, Entrepreneurship, Business
