@@ -2,7 +2,7 @@
 title: PR for the PR Newbie
 subtitle: Getting exposure for your startup
 date: 2016-02-23 01:48 +0000
-tags: Public Relations, Lean Startup
+tags: Public Relations, Lean Startup, Startups
 category: Marketing
 author_name: Kristi Klemm
 author_twitter: kristijoklemm
@@ -33,4 +33,4 @@ Speaking of commenting on relevant matters, getting to know reporters in your ar
 ## Be realistic
 Not everything is newsworthy. If your company of five people moved offices, don't follow the old-school PR tactic of putting out a release. Know that your company has its niche  and go after bloggers and journalists in that area. You'll have a much better response and reach the right people.
 
-We'd love to help do a quick influencer analysis for your startup. <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-cost-effective-research-tools" href="#modal-project-planner">Reach out</a> and let us know you need help!
+We'd love to help do a quick influencer analysis for your startup. <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-pr-for-pr-newbie" href="#modal-project-planner">Reach out</a> and let us know you need help!
