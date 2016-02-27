@@ -57,7 +57,7 @@ In 2014, Twitch.tv was acquired by Amazon for $1 billion. It had 55 million acti
 
 Slack is the darling of the startup community right now. It's an office communication tool that allows teams to chat in real-time. With over 2 million active daily users, Slack is the fastest startup in history to hit a $2 billion valuation.
 
-Slack didn't start off as a chat application, though. Actually, they started off as an online gamed called Glitch. They had over $17 million in funding but knew that their business model wasn't scalable. They had a team of 45 people who worked on the game for over three years. Founder Steward Butterfield, who also found and sold Flickr, had to make a decision, pivot or die. 
+Slack didn't start off as a chat application, though. Actually, they started off as an online game called Glitch. They had over $17 million in funding but knew that their business model wasn't scalable. They had a team of 45 people who worked on the game for over three years. Founder Steward Butterfield, who also found and sold Flickr, had to make a decision, pivot or die. 
 
 While shutting down Glitch, Butterfield and his team started to think about what they could do next. Slack was born out of their communication style. The team was using IRC to communicate in real-time, collaborate and build their company. After reflecting, they realized that IRC had become an important part of process--but it wasn't the best solution. They had spent time improving and building on IRC so why not build a better, more focused product. 
 
