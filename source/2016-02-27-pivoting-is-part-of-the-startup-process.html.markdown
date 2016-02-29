@@ -6,13 +6,16 @@ tags: Pivoting, Customer Development, Startups
 category: Startups
 author_id: johnkoht
 featured: true
+banner: true
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/65/startup-pivot.jpg
+primary: true
 ---
 
 A lot of first-time entrepreneurs cringe at the thought of a pivot. They don't understand it. Pivots are very common in startups-- they are not a sign of failure, instead they should be embraced as "[redeeming the failure][ries-pivot]".
 
 A startup is not a business--it's a process-- with a goal to "search for a repeatable and scalable business model". That search is a progressive customer development process, in which founders experiment with a Minimum Viable Product (MVP) in order to maximize learning. As a result of each experiment, a pivot can occur when validated learnings lead to a new discoveries in the business model.
 
-![](https://newentrepreneurship.files.wordpress.com/2012/11/build-measure-learn.png)
+<div><img src="https://newentrepreneurship.files.wordpress.com/2012/11/build-measure-learn.png" alt="Lean Startup Method" /><figcaption>Image from <a href="http://newentrepreneurship.nl/lean-startup-method/" target="_blank">New Entrepreneur</a></figcaption></div>
 
 ## What is a Pivot?
 
