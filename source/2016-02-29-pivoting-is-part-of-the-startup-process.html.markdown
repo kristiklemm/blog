@@ -1,7 +1,7 @@
 ---
 title: Pivoting is Part of the Startup Process
 subtitle: Founders should embrace pivoting as a path toward success.
-date: 2016-02-29 16:27 +0000
+date: 2016-02-29 01:27 +0000
 tags: Pivoting, Customer Development, Startups
 category: Startups
 author_id: johnkoht
