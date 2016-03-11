@@ -1,10 +1,13 @@
 ---
 title: Native vs. Hybrid Apps
 subtitle: How to determine what mobile experience is best for your startup.
-date: 2016-03-01 23:06 +0000
+date: 2016-03-09 23:06 +0000
 tags: Startups, Lean Startup, Resources
 category: Programming
 author_id: j_mcnally
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/66/Native_v_Hybrid-01.jpg
+banner: true
+featured: true
 ---
 
 One question that has come up since the first release of PhoneGap is, "Should we build a native app or a hybrid app?"
