@@ -1,7 +1,7 @@
 ---
 title: Logo Design Guidelines
 subtitle: Having a logo created is only the first step.
-date: 2016-03-18 01:54 +0000
+date: 2016-03-17 01:54 +0000
 tags: Web design, logo design, marketing
 category: Design
 author_name: Kristi Klemm
