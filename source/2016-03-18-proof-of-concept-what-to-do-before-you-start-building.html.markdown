@@ -1,6 +1,6 @@
 ---
 title: "Proof of Concept: What to do before you start building"
-subtitle: Bofore you jump into your start, take some time to prove your concept.
+subtitle: Before you jump in, take some time to prove your concept.
 date: 2016-03-18 17:33 +0000
 tags: Lean Startup, Business
 category: Startups
