@@ -8,6 +8,7 @@ author_id: j_mcnally
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/75/negativespace-15.jpg
 banner: true
 featured: true
+primary: true
 ---
 
 A question I get a lot from bright-eyed, aspiring entrepreneurs is, "How much would it cost to build X," where X is always a unicorn startup. I both love and dread this question, mostly because it makes a lot of assumptions, and also forces me to make a lot of assumptions. 
