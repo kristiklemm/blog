@@ -37,11 +37,6 @@ There are lots of alternatives right now for non-web based (or app based, for th
 
 After you have assessed your needs and taken them back to the basics or “need to have” features, you can begin to compare builders. We took the top website builders and compared features most needed in a startup MVP. 
 
-|  dd  | Well designed themes | Mobile responsive | Membership Creation | Mobile App | Ability to Export | SSL Encrypted |
-|---|---|---|---|---|---|---|
-|Wix|x| |x|x|x| | |
-|Squarespace|x| |x| | |x| |
-
 <table class="table table-bordered table-wide table-comparisons">
   <thead>
     <tr>
