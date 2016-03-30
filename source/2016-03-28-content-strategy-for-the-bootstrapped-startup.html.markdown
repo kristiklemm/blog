@@ -1,7 +1,7 @@
 ---
 title: Content Strategy for the Bootstrapped Startup
 subtitle: Seven Tips to Creating Compelling Content with Limited Resources.
-date: 2016-03-29 16:05 +0000
+date: 2016-03-28 16:05 +0000
 tags: Content Strategy, Marketing, SEO, Startups
 category: Lean Startup
 author_name: Kristi Klemm

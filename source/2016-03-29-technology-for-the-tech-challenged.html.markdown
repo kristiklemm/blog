@@ -1,7 +1,7 @@
 ---
 title: Technology for the Tech Challenged
 subtitle: Is a website builder robust enough for your business idea?
-date: 2016-03-30 17:49 +0000
+date: 2016-03-29 17:49 +0000
 tags: Web development, Web Design, MVP, Website Builders
 category: Lean Startup
 author_name: Kristi Klemm
