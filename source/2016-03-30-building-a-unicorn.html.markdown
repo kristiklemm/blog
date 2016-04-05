@@ -49,10 +49,6 @@ One problem first-time entrepreneurs face is the million user problem. They all 
 
 “Should our Management dashboard have the ability to refund, or can we have someone issue refunds manually via Stripe's dashboard?” It’s an additional step, and you have to train your service team, but if you only give out 1 refund a month, did you really need the feature to be easy?
 
-(possible split in piece, end of Part 1) 
-
-(Theoretical text for split: “In our next post, we’ll look at the back half of the unicorn building process. From the fear of failure to questions about strategic scalability, check back soon for insights on how to best navigate these somewhat uncertain waters.”) 
-
 ## The fear of failure
 
 One of the reasons people build overly complicated systems with every feature they can imagine is so that they can blame their technology for their failure instead of themselves. If they say, “We will be responsible for X to keep technology costs lower,” and the product fails and people point to X, then they failed. If they can shuffle the blame to the system doing a bad job at X, or even that they built X so they don't know why the business failed, they feel validated that they did their best. 
