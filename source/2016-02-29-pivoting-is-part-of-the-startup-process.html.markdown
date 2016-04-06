@@ -13,7 +13,7 @@ primary: true
 
 A lot of first-time entrepreneurs cringe at the thought of a pivot. They don't understand it. Pivots are very common in startups-- they are not a sign of failure, instead they should be embraced as "<a href="https://www.youtube.com/watch?v=1hTI4z2ijc4" target="_blank">redeeming the failure</a>".
 
-A startup is not a business--it's a process-- with a goal to "search for a repeatable and scalable business model". That search is a progressive customer development process, in which founders experiment with a Minimum Viable Product (MVP) in order to maximize learning. As a result of each experiment, a pivot can occur when validated learnings lead to a new discoveries in the business model.
+A startup is not a business--it's a process-- with a goal to "search for a repeatable and scalable business model". That search is a progressive customer development process, in which founders experiment with a Minimum Viable Product (MVP) in order to maximize learning. As a result of each experiment, a pivot can occur when validated learnings lead to new discoveries in the business model.
 
 <div><img src="https://newentrepreneurship.files.wordpress.com/2012/11/build-measure-learn.png" alt="Lean Startup Method" /><figcaption>Image from <a href="http://newentrepreneurship.nl/lean-startup-method/" target="_blank">New Entrepreneur</a></figcaption></div>
 
@@ -45,7 +45,7 @@ Most founders start with a vision and an idea. That initial idea is usually pret
 
 <div><img src="https://resizer.kohactive.com/1000/600/fill/https://i.ytimg.com/vi/xMuDVugJuow/maxresdefault.jpg" alt="Twitch.tv Pivot" /></div>
 
-### Twitch.tv
+#### Twitch.tv
 Twitch.tv started out as Justin.tv, a startup founded by Justin Kan and his roommates, that would live-stream his entire life. It was similar to the movie <a href="http://www.imdb.com/title/tt0131369/" target="_blank">Ed TV</a>, but real. Despite a few exciting moments, the broadcast was fairly uneventful and boring. 
 
 Through customer development, Justin and his team learned that users were interested in using the platform to live stream their own experiences so the company pivoted. Justin.tv wasn't about watching Justin Kan's "lifecast"--now anybody could live-stream their life, event or experiences.
@@ -64,7 +64,7 @@ Slack didn't start off as a chat application, though. Actually, they started off
 
 While shutting down Glitch, Butterfield and his team started to think about what they could do next. Slack was born out of their communication style. The team was using IRC to communicate in real-time, collaborate and build their company. After reflecting, they realized that IRC had become an important part of process--but it wasn't the best solution. They had spent time improving and building on IRC so why not build a better, more focused product. 
 
-Slack was born from their own needs when building their company. Millions of other startups had the same communication problems. There were other competitors, but none solve the problem like Slack does. You can read more about Slack from <a href="http://www.businessinsider.com/slack-ceo-stewart-butterfield-interview-2015-4" target="_blank">this interview with Stewart Butterfield</a>.
+Slack was born from their own needs when building their company. Millions of other startups had the same communication problems. There were other competitors, but none solved the problem like Slack does. You can read more about Slack from <a href="http://www.businessinsider.com/slack-ceo-stewart-butterfield-interview-2015-4" target="_blank">this interview with Stewart Butterfield</a>.
 
 <div><img src="https://s3.amazonaws.com/mediocre-production/uploads/image/filename/47/instagram.jpg" alt="Instagram Pivot" /></div>
 
@@ -86,7 +86,7 @@ Pinterest actually started off as an app called Tote, which was designed to make
 
 The founders realized that users were mostly interested in building "collections" of products and sharing with friends. Rather than continue down the road of mobile shopping, they pivoted into a visual bookmarking tool.
 
-The pinterest team knew there was a market need for their product vision. It wasn't until they launched and collected feedback that they realized they were solving the wrong problem.
+The Pinterest team knew there was a market need for their product vision. It wasn't until they launched and collected feedback that they realized they were solving the wrong problem.
 
 You can learn more about <a href="http://www.fastcompany.com/3001984/pinterest-pivot" target="_blank">the Pinterest story</a>.
 
@@ -104,6 +104,6 @@ YouTube founders had a vision of a video platform but it took customer developme
 
 ## Conclusion
 
-Successful founders have a vision, not a product. Finding product market fit and building a succesful business require experimentation and customer development. Startups must continue to learn after each experiment and decide if they are correct about their original model or whether it's time to make a change. Pivoting is part of the process, it's not failure-- as Eric Ries states, it's "redeeming the failure".
+Successful founders have a vision, not a product. Finding product market fit and building a successful business require experimentation and customer development. Startups must continue to learn after each experiment and decide if they are correct about their original model or whether it's time to make a change. Pivoting is part of the process, it's not failure-- as Eric Ries states, it's "redeeming the failure".
 
 _If you have more questions about pivoting, need help pivoting or just want to discuss startups then <a data-toggle="modal" data-planner-button="true" data-planner-source="blog-post-pivot-post" href="#modal-project-planner">get in touch with us</a>._
