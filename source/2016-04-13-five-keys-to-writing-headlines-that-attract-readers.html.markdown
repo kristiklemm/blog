@@ -1,11 +1,10 @@
+---
 title: Five Keys to Writing Headlines That Attract Readers
-subtitle:Getting the click is the hardest part
+subtitle: Getting the click is the hardest part.
 date: 2016-04-13 15:05 +0000
 tags: Writing, Content, Content Strategy, Content Marketing
 category: Marketing
-author_name: Gino Desruisseaux
-author_twitter: @mynameisgino
-author_avatar: 
+author_id: mynameisgino
 image: https://static.pexels.com/photos/6335/man-coffee-cup-pen.jpg
 banner: true
 featured: true
@@ -15,11 +14,11 @@ Attracting readers and driving traffic is the name of the game for a lot of comp
 
 Not every content writer is a skilled wordsmith with carefully woven tales destined to captivate and awe. But writing a successful headline can be the difference between very well-distributed content and something that falls flat. Here are some keys to writing headlines that will attract your readers to your (hopefully) earth-shatteringly great content.
 
-1. Allude to a numbered list
+## 1. Allude to a numbered list
 
 It’s proven that numbered lists do very well in blog posts. Digital marketers, growth strategists, and SEO experts alike have all known this for some time now. Lists give readers a familiar way to gauge roughly how long it might take for them to get through a piece of content. Numbered lists allow readers to actively justify the consumption of information in exchange for the time they will spend consuming said information.
 
-## 2 .Know Your Audience
+## 2. Know Your Audience
 
 Who are you writing for? Do you understand the demographic? Their likes and dislikes? Their desire for formality or the lack thereof? Knowing your audience will help you craft and tailor your headlines for the best chance at having your content consumed and shared. For example, if I wanted a post to go viral among members of the investment banking C-Suite, I wouldn’t title my post, “The Top 5 Ways to Stack Paper for that Vacation.”
 
