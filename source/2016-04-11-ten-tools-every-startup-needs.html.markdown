@@ -37,7 +37,7 @@ This design program for "non-designers" is a great way to add text to photos, or
 
 This tool is extremely helpful in planning your Instagram feed. It gives you the ability to upload images from your desktop, provides helpful analytics, and is forever free for up to two accounts. Paid versions allow you to add team members, upload videos, and search (and repost) others’ content, which is a must if you want to share photos where you’ve been mentioned.
 
-##  7. <a href="www.tailwindapp.com" target="_blank"> Tailwind</a>
+##  7. <a href="http://www.tailwindapp.com" target="_blank"> Tailwind</a>
 
 If Pinterest is an important part of your social strategy, Tailwind is a great tool. There’s a professional version for large companies that archives your information for a year, but so long as you can work within the one-week archive (we recommend taking that info and putting it into a spreadsheet), then the $9.99/month cost makes a lot of sense. The free version allows you to track pin activity, as well as optimize when to pin your content.
 
