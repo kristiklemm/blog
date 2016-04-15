@@ -1,10 +1,14 @@
 ---
 title: "User Testing: What is it and why you should do it" 
 subtitle: Making user testing part of your process will save you money, increase revenue and help you build successful products.
-date: 2016-04-06 15:05 +0000
+date: 2016-04-15 01:05 +0000
 tags: Startups, User Testing, Customer Development
 category: Lean Startup
-author: johnkoht
+author_id: johnkoht
+image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/83/usertesting.jpg
+banner: true
+featured: true
+primary: true
 ---
 
 Earlier this year, a client of ours decided to rebuild their admin system. They are a white-label service and they have thousands of clients that use this platform. We inherited the app after a few years of offshore development. This was a big move for our client and we decided to slowly roll out the new admin over the course of the year.
@@ -35,6 +39,8 @@ User testing is a cornerstone of <a href="https://en.wikipedia.org/wiki/User-cen
 
 User testing has many benefits, whether you're testing a new product idea, introducing a new feature or redesigning an existing one. User testing allows a team to identify problems early and often. The earlier an issue is identified then the easier and cheaper it will be to fix. 
 
+![](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/88/increaserevenue.jpg)
+
 ### Increase Revenue
 
 User testing is advantageous for companies. A <a href="https://hbr.org/2014/04/design-can-drive-exceptional-returns-for-shareholders/" target="_blank">study by Motiv Strategies</a> shows that design-centric companies had a 228% higher ROI than the S&P 500 companies.
@@ -55,6 +61,8 @@ Not only does user testing lead to the retention of paying customers, it also cr
 
 User testing enables teams to build products their customers want and need. Likewise, taking the time to listen to your customers and make them part of your development processes attaches them to your brand. They feel like they are more than just customers, but part of the team. They'll advocate and become your largest source of free marketing.
 
+![](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/90/reducedevcost.jpg)
+
 ### Reduce Your Development Costs
 
 User testing wireframes or mockups can reduce development costs significantly. There is no benefit in building something that hasn't been validated by customers. An estimated <a href="http://www.usability.gov/what-and-why/benefits-of-ucd.html" target="_blank">50% of engineering time</a> is spent doing rework that could have been avoided. Our client above learned this the hard way.
@@ -74,6 +82,8 @@ In _The Lean Startup_, Eric Ries discusses how they build IMVUs Instant Messenge
 
 When you build complicated product websites with hundreds of pages it's very easy to build difficult navigation systems. Rather than design, architect and develop your entire navigation system on an assumption, you can create clickable prototypes to test with users. 
 
+![](https://s3.amazonaws.com/mediocre-production/uploads/image/filename/87/reducesupportcost.jpg)
+
 ### Reduce Customer Support Costs
 
 A product with usability issues results in two outcomes: users abandon the product or customer support calls. With diligent user testing and feedback, a user-friendly product can be built to satisfy the end users needs. The easier it is for the user to complete, the fewer support costs you'll incur.
@@ -88,4 +98,4 @@ One of our clients challenged us to build a complicated social, professional pro
 
 In conclusion, you should be user testing early and often. You don't need fancy tests and a giant team to get a start--in a follow-up to this article, we'll dive into the various techniques and platforms. Many startups and large corporations employ user testing on a regular basis to validate their assumptions and ensure they are building products that solve real customer problems. 
 
-_If you have any questions about user testing or want to learn more about how we help clients build data-driven products, then <a data-toggle="modal" data-planner-button="true" data-planner-source="Blog Post: User Testing Your Product" href="#modal-project-planner">reach out</a> to start a conversation.
+_If you have any questions about user testing or want to learn more about how we help clients build data-driven products, then <a data-toggle="modal" data-planner-button="true" data-planner-source="Blog Post: User Testing Your Product" href="#modal-project-planner">reach out</a> to start a conversation._
