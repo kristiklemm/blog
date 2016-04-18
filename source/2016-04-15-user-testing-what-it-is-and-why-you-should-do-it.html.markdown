@@ -1,11 +1,12 @@
 ---
-title: "User Testing: What is it and why you should do it" 
-subtitle: Making user testing part of your process will save you money, increase revenue and help you build successful products.
+title: "User Testing: What Is It and Why You Should Do It" 
+subtitle: User testing saves you money, increases revenue and helps build better products.
 date: 2016-04-15 01:05 +0000
 tags: Startups, User Testing, Customer Development
 category: Lean Startup
 author_id: johnkoht
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/83/usertesting.jpg
+social_image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/91/usertesting-social.jpg
 banner: true
 featured: true
 primary: true
