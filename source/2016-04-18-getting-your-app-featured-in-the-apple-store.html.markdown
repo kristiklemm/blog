@@ -1,15 +1,17 @@
-+title: Marketing Your App in the Apple Store
-+subtitle:The dos and don’ts
-+date: 2016-04-15 15:05 +0000
-+tags: Marketing, mobile development, Apple
-+category: Mobile
+---
+title: Marketing Your App in the Apple Store
+subtitle: The dos and don’ts
+date: 2016-04-18 15:05 +0000
+tags: Marketing, Mobile Development, Apple
+category: Mobile
 author_name: Kristi Klemm
 author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
 image: https://images.unsplash.com/photo-1432741826919-baadebff52aa?crop=entropy&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1450
 banner: true
 featured: false
-+---
+---
+
 If you’ve recently launched an app in the App Store, there are a few things that many people have likely not told you about its success. To help you get ahead, we’ve helped uncover some of the secrets to making your app successful. Now, you’ll find many articles that start with “How to build a great app,” but we’re going to go ahead and assume you’ve got that part down (including making it universal.) If you’re not that far yet, have no fear--we can definitely help you. Once you’ve gotten your app listed in the App Store, you’re ready to start garnering downloads.
 
 We’re not saying it will be easy to get those first hundred, thousand, or even hundred thousand downloads. But here are some actionable tips that can help you begin to get more downloads for your app.
