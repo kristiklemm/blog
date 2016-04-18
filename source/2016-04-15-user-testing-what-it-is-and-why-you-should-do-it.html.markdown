@@ -6,6 +6,7 @@ tags: Startups, User Testing, Customer Development
 category: Lean Startup
 author_id: johnkoht
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/83/usertesting.jpg
+social_image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/91/usertesting-social.jpg
 banner: true
 featured: true
 primary: true
