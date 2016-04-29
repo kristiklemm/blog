@@ -206,3 +206,5 @@ Remember that user testing is about uncovering and solving problems that real us
 With a variety of available platforms, you can easily find one that fits your requirements and budget. Don't worry about trying to get it right the first time, just keep iterating and collecting feedback until you've found a solution that works. 
 
 Good luck with user testing! If you have any questions or want help with the process, feel free to <a data-toggle="modal" data-planner-button="true" data-planner-source="Blog Post: User Testing Techniques and Platforms" href="#modal-project-planner">reach out</a>.
+
+<small><i>All illustrations by kohactivator, and designer extraordinary, Ian Steele</i></small>
