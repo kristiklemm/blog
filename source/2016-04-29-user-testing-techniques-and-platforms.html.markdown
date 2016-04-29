@@ -207,4 +207,4 @@ With a variety of available platforms, you can easily find one that fits your re
 
 Good luck with user testing! If you have any questions or want help with the process, feel free to <a data-toggle="modal" data-planner-button="true" data-planner-source="Blog Post: User Testing Techniques and Platforms" href="#modal-project-planner">reach out</a>.
 
-<small><i>All illustrations by kohactivator, and designer extraordinary, Ian Steele</i></small>
+<small><i>All illustrations by kohactivator, and designer extraordinaire, Ian Steele</i></small>
