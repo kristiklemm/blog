@@ -8,8 +8,6 @@ author_id: johnkoht
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/83/usertesting.jpg
 social_image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/91/usertesting-social.jpg
 banner: true
-featured: true
-primary: true
 ---
 
 Earlier this year, a client of ours decided to rebuild their admin system. They are a white-label service and they have thousands of clients that use this platform. We inherited the app after a few years of offshore development. This was a big move for our client and we decided to slowly roll out the new admin over the course of the year.

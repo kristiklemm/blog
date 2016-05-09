@@ -9,7 +9,6 @@ author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/109/UIhero.png
 banner: true
-featured: true
 ---
 
 We immerse ourselves in the web everyday. Let’s face it-- not all of it is pretty. So we take special notice when a website is well-built and beautifully designed. Some of us love the use of iconography. Some enjoy skillful illustration. And some of us just enjoy an easy to understand, and use, interface. 
