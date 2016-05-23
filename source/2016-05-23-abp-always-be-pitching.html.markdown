@@ -9,6 +9,7 @@ author_twitter: kristijoklemm
 author_avatar: https://pbs.twimg.com/profile_images/2752739843/f878ce42bbeb25aec4c29e24240ae98d.png
 image: https://s3.amazonaws.com/mediocre-production/uploads/image/filename/140/CYB2SCDOQU.jpg
 banner: true
+featured: true
 ---
 
 The Elevator Pitch. One of 2008’s business buzzwords. While this phrase gets thrown around a lot, particularly at a time when so many of us are pitching relentlessly, there is perhaps no wiser or more concise advice than from Seth Godin:
