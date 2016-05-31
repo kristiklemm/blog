@@ -1,6 +1,6 @@
 ---
 title: Organically Growing Your Social Media
-subtitle: The dos and don’ts of getting noticed 
+subtitle: The dos and don’ts of getting noticed.
 date: 2016-05-31 14:50 +0000
 tags: Growth, Social Media, Influencer Marketing
 category: Marketing
