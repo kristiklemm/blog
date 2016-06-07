@@ -1,6 +1,7 @@
 ---
 title: "Learning from Your Customers --or Future Customers"
 subtitle: "Cost Effective and Easy-to-Use Research Tools"
+meta_description: "Use customer feedback to build better products, here are some cost-effective and easy-to-use tips"
 date: 2016-02-17 14:50 +0000
 tags: Marketing, Research, Customer Development
 category: Resources

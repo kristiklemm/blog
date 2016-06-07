@@ -1,6 +1,7 @@
 ---
 title: Marketing Your App in the Apple Store
 subtitle: The dos and don’ts
+meta_description: "Marketing Your App in the Apple Store: The dos and don’ts"
 date: 2016-04-18 15:05 +0000
 tags: Marketing, Mobile Development, Apple
 category: Mobile

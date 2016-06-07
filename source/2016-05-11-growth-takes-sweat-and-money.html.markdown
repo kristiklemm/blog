@@ -1,6 +1,7 @@
 ---
 title: Growth Takes Sweat and Money
 subtitle: What to outsource, and what to do yourself.
+meta_description: "Growth Takes Sweat and Money: What to outsource, and what to do yourself."
 date: 2016-05-11 22:53 +0000
 tags: Bootstrapping, Startups, Leadership
 category: Lean Startup

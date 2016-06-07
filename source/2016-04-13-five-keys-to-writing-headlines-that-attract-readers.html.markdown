@@ -1,6 +1,7 @@
 ---
 title: Five Keys to Writing Headlines That Attract Readers
 subtitle: Getting the click is the hardest part.
+meta_description: "Getting clicks is the hardest part, here are five tips to writing good headlines."
 date: 2016-04-13 15:05 +0000
 tags: Writing, Content, Content Strategy, Content Marketing
 category: Marketing

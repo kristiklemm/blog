@@ -1,6 +1,7 @@
 ---
 title: "ABP: Always Be Pitching"
 subtitle: Here’s how to hone your elevator pitch.
+meta_description: "Your elevator pitch is vital to your startup, here is some advice on building a great pitch."
 date: 2016-05-23 18:26 +0000
 tags: Marketing, Lean Startup, Entrepreneurship
 category: Marketing

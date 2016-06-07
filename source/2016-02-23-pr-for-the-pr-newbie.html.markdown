@@ -1,6 +1,7 @@
 ---
 title: PR for the PR Newbie
 subtitle: Getting exposure for your startup
+meta_description: "PR for the PR Newbie: Getting exposure for your startup"
 date: 2016-02-23 01:48 +0000
 tags: Public Relations, Lean Startup, Startups
 category: Marketing

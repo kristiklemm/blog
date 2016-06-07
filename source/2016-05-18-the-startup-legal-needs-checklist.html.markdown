@@ -1,6 +1,7 @@
 ---
 title: The Startup Legal Needs Checklist
 subtitle: A few steps now will protect you in the future
+meta_description: "A checklist of important steps to take now to protect your startup in the future"
 date: 2016-05-18 15:05 +0000
 tags: Legal, Startups, Lean Startups, Entrepreneur
 category: Guest Post

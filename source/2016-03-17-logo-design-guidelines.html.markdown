@@ -1,6 +1,7 @@
 ---
 title: Logo Design Guidelines
 subtitle: Having a logo created is only the first step.
+meta_description: "Logo Design Guidelines: Having a logo created is only the first step.""
 date: 2016-03-17 01:54 +0000
 tags: Web design, logo design, marketing
 category: Design

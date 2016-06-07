@@ -1,6 +1,7 @@
 ---
 title: "Bootstrapping Your Startup: The Funding Conundrum"
 subtitle: The pros and cons of bootstrapping your startup.
+meta_description: "The top five pros and cons of bootstrapping your startup--the funding conundrum."
 date: 2016-03-16 01:31 +0000
 tags: Funding, Venture Capital, Bootstrapping
 category: Resource
