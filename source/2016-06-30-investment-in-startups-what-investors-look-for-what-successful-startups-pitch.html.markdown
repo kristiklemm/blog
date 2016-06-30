@@ -40,7 +40,7 @@ What do investors look for? The answer tends to vary depending on stage or round
     <li>Value Proposition</li>
     <li>Path to Profitability</li>
   </ul>
-  <footer><a href="http://ventureconnects.com/" target="_blank">Gareth Jefferies via Quora,</a> VC at Northzone, London</footer>
+  <footer><a href="https://www.quora.com/What-are-the-most-important-factors-an-investor-is-looking-for-in-a-venture" target="_blank">Gareth Jefferies via Quora,</a> VC at Northzone, London</footer>
 </blockquote>
 
 **What have some successful companies pitched investors?**  
