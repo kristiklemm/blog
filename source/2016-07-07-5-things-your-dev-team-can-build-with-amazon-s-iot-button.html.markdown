@@ -28,8 +28,7 @@ Right when a client walks in the door you can remotely turn on the smart bulbs i
 
 Say goodbye to interruptions when you set up a red LED that warns people you're in the zone. Better yet, toggle between red, yellow, and green to let people know your availability. Lumbergh won't head straight for your desk for those TPS reports at 4:52pm on a Friday if he can see that you're dialed in.
 
-The Pi Hut has <a href=
-"https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins" target="_blank">a great tutorial on hooking an LED light up to your Raspberry Pi</a>.
+The Pi Hut has <a href="https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins" target="_blank">a great tutorial on hooking an LED light up to your Raspberry Pi</a>.
 
 ### 4. A Slack bot
 
