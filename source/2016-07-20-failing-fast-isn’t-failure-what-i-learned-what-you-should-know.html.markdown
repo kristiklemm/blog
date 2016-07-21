@@ -1,5 +1,5 @@
 ---
-title: Failing Fast isn’t Failure
+title: "Failing Fast isn’t Failure"
 subtitle: What I learned, what you should know
 date: 2016-07-20 21:22 +0000
 tags: Entrepreneurship, Startups, Funding, Operations, Marketing
